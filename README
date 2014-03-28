@@ -1,0 +1,6 @@
+Original repo is
+http://git.insignal.co.kr/insignal/arndale_octa-jb_mr1.1/android/hardware/samsung_slsi/exynos5420/?h=arndale_octa-jb_mr1.1
+
+I'm trying to port CyanogenMod 11.0 to Samsung Galaxy Note 3 (SM-N900)
+
+This repo claims to be like CyanogenMod's android_hardware_samsung_slsi_exynos5410.
